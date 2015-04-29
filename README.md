@@ -4,7 +4,7 @@
 This repository contains a small chat server implementation to be used for Recitation 15. 
 
 ### Getting Started
-------
+------asdlkhjasd;lkja;sldkjad
 ##### Forking the Repository
 In order to gain access to this repository, we would like you to **Fork** the repsoitory, and then clone your fork onto your local machine. More information about forking can be found [here](https://help.github.com/articles/fork-a-repo/).
 
